@@ -108,15 +108,13 @@ We got 37f62f1363b04df4370753037853fe88:trololo using (https://hashes.com/en/dec
 
 ## Confessions
 
-<img alt="confess" src="img/confessions-1">
+<img alt="confess" src="img/confessions-1.png">
 
 Let's check what's going on:
 
 <img alt="confess" src="img/confessions-2.png">
 
 We can see confess requests made every time we input some text.
-
-<img alt="confess" src="">
 
 The server is being called to generate a hash.
 
