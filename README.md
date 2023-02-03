@@ -87,7 +87,8 @@ IT'S AT: /CH2.BMP AND I HAVE A BONUS POINT FOR YOU IF YOU EXPLAIN WHY IT WAS A B
 We have used this Hexdump viewer (https://hexed.it/)
 It was a bad idea because this file contains some values with 0 so when you XOR 0, the key is displayed.
 
-```gitgud
+```text
+gitgud
 
 ```
 
