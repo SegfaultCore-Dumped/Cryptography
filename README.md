@@ -108,8 +108,6 @@ We got 37f62f1363b04df4370753037853fe88:trololo using (https://hashes.com/en/dec
 
 ## Confessions
 
-### Goal
-
 <img alt="confess" src="img/confessions-1">
 
 Let's check what's going on:
